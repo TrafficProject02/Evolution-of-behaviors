@@ -7,7 +7,7 @@ I pray you have as much fun running it as I had making it and feel free to make 
 
 I used the GNU fortran compiler (gfortran). After you uncomment the subroutine you wish to run in the MAIN section on the final lines, I recomend you go to the folder where the program is saved and run: 
 
-$ gfortran  -fimplicit-none  -Wall  -Wline-truncation  -Wcharacter-truncation  -Wsurprising  -Waliasing  -Wimplicit-interface  -Wunused-parameter  -fwhole-file  -fcheck=all  -std=f2008  -pedantic  -fbacktrace Teste.f95 -o TrafficProject
+$ gfortran  -fimplicit-none  -Wall  -Wline-truncation  -Wcharacter-truncation  -Wsurprising  -Waliasing  -Wimplicit-interface  -Wunused-parameter  -fwhole-file  -fcheck=all  -std=f2008  -pedantic  -fbacktrace name_of_the_saved_program.f95 -o TrafficProject
 
 $ ./TrafficProject
 
