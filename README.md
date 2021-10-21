@@ -1,7 +1,7 @@
 # TrafficScienceProject
 A set of FORTRAN tools to evaluate traffic behavior and its conection to Evolutionary Game Theory
 
-I do not garantee the behavior of any routine in the program, but if you find a bug or want to share something you can reach me in thisisajobrelatedmail@gmail.com
+I do not garantee the behavior of any routine in the program, but if you find a bug or want to share something you can reach me in thisisajobrelatedmail@gmail.com or summernightdream@grad.fis.ufmg.br
 
 I pray you have as much fun running it as I had making it and feel free to make any modification you please, but I ask you to make it publically available as I did. 
 
